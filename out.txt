@@ -1,0 +1,13 @@
+total 28
+drwxr-xr-x 1 rabaiba rabaiba  250 Jan  1 22:17 .
+drwx------ 1 rabaiba rabaiba  536 Jan  1 16:53 ..
+-rw-r--r-- 1 rabaiba rabaiba   50 Dec 14 10:37 .directory
+-rw-r--r-- 1 rabaiba rabaiba    0 Jan  1 22:17 err.txt
+-rw-r--r-- 1 rabaiba rabaiba   85 Jan  1 13:38 file1.txt
+-rwxr-xr-x 1 rabaiba rabaiba  335 Jan  1 17:54 firstscript.sh
+-rw------- 1 rabaiba rabaiba  361 Jan  1 17:54 .firstscript.sh.kate-swp
+drwxr-xr-x 1 rabaiba rabaiba  390 Dec 28 11:34 google-chrome
+-rwxr-xr-x 1 rabaiba rabaiba 1057 Dec 20 14:21 HelloBash.sh
+-rwxr-xr-x 1 rabaiba rabaiba 2612 Jan  1 22:17 helloScript.sh
+-rw-r--r-- 1 rabaiba rabaiba    0 Jan  1 22:17 out.txt
+-rwxr-xr-x 1 rabaiba rabaiba   82 Jan  1 17:20 secondscript.sh

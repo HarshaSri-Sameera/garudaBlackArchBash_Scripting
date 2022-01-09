@@ -1,0 +1,4 @@
+Hola, hows you doing?
+This is another line of random text just to irritate you, sup?
+hi this is appended text
+this is another line which is appended and done from myscripts.sh
